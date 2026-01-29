@@ -112,3 +112,17 @@ select{
     padding: 6px;
     margin-top: 4px;
 }
+
+video{
+    display: block;
+}
+
+audio{
+    width: 100%;
+    margin: 15px 0;
+}
+
+iframe{
+    border: 1px #2a6df4;
+    background: white;
+}
